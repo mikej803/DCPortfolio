@@ -1879,7 +1879,7 @@ input, select, textarea {
 
 		.wrapper > .inner {
 			position: relative;
-			z-index: 2;
+			z-index: 4;
 		}
 
 		.wrapper.style1 {
